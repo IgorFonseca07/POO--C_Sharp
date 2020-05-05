@@ -1,0 +1,13 @@
+D:\Documents\CursoC#_Udemy\Curso--C_Sharp\ClassObjAtrib\ClassObjAtrib\bin\Debug\netcoreapp3.1\ClassObjAtrib.exe
+D:\Documents\CursoC#_Udemy\Curso--C_Sharp\ClassObjAtrib\ClassObjAtrib\bin\Debug\netcoreapp3.1\ClassObjAtrib.deps.json
+D:\Documents\CursoC#_Udemy\Curso--C_Sharp\ClassObjAtrib\ClassObjAtrib\bin\Debug\netcoreapp3.1\ClassObjAtrib.runtimeconfig.json
+D:\Documents\CursoC#_Udemy\Curso--C_Sharp\ClassObjAtrib\ClassObjAtrib\bin\Debug\netcoreapp3.1\ClassObjAtrib.runtimeconfig.dev.json
+D:\Documents\CursoC#_Udemy\Curso--C_Sharp\ClassObjAtrib\ClassObjAtrib\bin\Debug\netcoreapp3.1\ClassObjAtrib.dll
+D:\Documents\CursoC#_Udemy\Curso--C_Sharp\ClassObjAtrib\ClassObjAtrib\bin\Debug\netcoreapp3.1\ClassObjAtrib.pdb
+D:\Documents\CursoC#_Udemy\Curso--C_Sharp\ClassObjAtrib\ClassObjAtrib\obj\Debug\netcoreapp3.1\ClassObjAtrib.csprojAssemblyReference.cache
+D:\Documents\CursoC#_Udemy\Curso--C_Sharp\ClassObjAtrib\ClassObjAtrib\obj\Debug\netcoreapp3.1\ClassObjAtrib.csproj.CoreCompileInputs.cache
+D:\Documents\CursoC#_Udemy\Curso--C_Sharp\ClassObjAtrib\ClassObjAtrib\obj\Debug\netcoreapp3.1\ClassObjAtrib.AssemblyInfoInputs.cache
+D:\Documents\CursoC#_Udemy\Curso--C_Sharp\ClassObjAtrib\ClassObjAtrib\obj\Debug\netcoreapp3.1\ClassObjAtrib.AssemblyInfo.cs
+D:\Documents\CursoC#_Udemy\Curso--C_Sharp\ClassObjAtrib\ClassObjAtrib\obj\Debug\netcoreapp3.1\ClassObjAtrib.dll
+D:\Documents\CursoC#_Udemy\Curso--C_Sharp\ClassObjAtrib\ClassObjAtrib\obj\Debug\netcoreapp3.1\ClassObjAtrib.pdb
+D:\Documents\CursoC#_Udemy\Curso--C_Sharp\ClassObjAtrib\ClassObjAtrib\obj\Debug\netcoreapp3.1\ClassObjAtrib.genruntimeconfig.cache

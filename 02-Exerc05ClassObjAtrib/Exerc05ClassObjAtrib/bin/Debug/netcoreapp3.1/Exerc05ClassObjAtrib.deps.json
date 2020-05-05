@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Exerc05ClassObjAtrib/1.0.0": {
+        "runtime": {
+          "Exerc05ClassObjAtrib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exerc05ClassObjAtrib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
