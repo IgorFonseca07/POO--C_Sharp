@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Documents\\CursoC#_Udemy\\POO--C_Sharp\\01-ClassObjAtrib\\ClassObjAtrib\\ClassObjAtrib.csproj": {}
+    "D:\\Documents\\CursoC#_Udemy\\POO--C_Sharp\\ClassAtribMet\\ClassAtribMet\\ClassAtribMet.csproj": {}
   },
   "projects": {
-    "D:\\Documents\\CursoC#_Udemy\\POO--C_Sharp\\01-ClassObjAtrib\\ClassObjAtrib\\ClassObjAtrib.csproj": {
+    "D:\\Documents\\CursoC#_Udemy\\POO--C_Sharp\\ClassAtribMet\\ClassAtribMet\\ClassAtribMet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documents\\CursoC#_Udemy\\POO--C_Sharp\\01-ClassObjAtrib\\ClassObjAtrib\\ClassObjAtrib.csproj",
-        "projectName": "ClassObjAtrib",
-        "projectPath": "D:\\Documents\\CursoC#_Udemy\\POO--C_Sharp\\01-ClassObjAtrib\\ClassObjAtrib\\ClassObjAtrib.csproj",
+        "projectUniqueName": "D:\\Documents\\CursoC#_Udemy\\POO--C_Sharp\\ClassAtribMet\\ClassAtribMet\\ClassAtribMet.csproj",
+        "projectName": "ClassAtribMet",
+        "projectPath": "D:\\Documents\\CursoC#_Udemy\\POO--C_Sharp\\ClassAtribMet\\ClassAtribMet\\ClassAtribMet.csproj",
         "packagesPath": "C:\\Users\\Caveira\\.nuget\\packages\\",
-        "outputPath": "D:\\Documents\\CursoC#_Udemy\\POO--C_Sharp\\01-ClassObjAtrib\\ClassObjAtrib\\obj\\",
+        "outputPath": "D:\\Documents\\CursoC#_Udemy\\POO--C_Sharp\\ClassAtribMet\\ClassAtribMet\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Caveira\\AppData\\Roaming\\NuGet\\NuGet.Config",
