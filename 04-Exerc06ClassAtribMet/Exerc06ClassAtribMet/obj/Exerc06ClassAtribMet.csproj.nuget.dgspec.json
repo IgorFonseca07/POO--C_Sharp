@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Documents\\CursoC#_Udemy\\POO--C_Sharp\\03-ClassAtribMet\\ClassAtribMet\\ClassAtribMet.csproj": {}
+    "D:\\Documents\\CursoC#_Udemy\\POO--C_Sharp\\Exerc06ClassAtribMet\\Exerc06ClassAtribMet\\Exerc06ClassAtribMet.csproj": {}
   },
   "projects": {
-    "D:\\Documents\\CursoC#_Udemy\\POO--C_Sharp\\03-ClassAtribMet\\ClassAtribMet\\ClassAtribMet.csproj": {
+    "D:\\Documents\\CursoC#_Udemy\\POO--C_Sharp\\Exerc06ClassAtribMet\\Exerc06ClassAtribMet\\Exerc06ClassAtribMet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documents\\CursoC#_Udemy\\POO--C_Sharp\\03-ClassAtribMet\\ClassAtribMet\\ClassAtribMet.csproj",
-        "projectName": "ClassAtribMet",
-        "projectPath": "D:\\Documents\\CursoC#_Udemy\\POO--C_Sharp\\03-ClassAtribMet\\ClassAtribMet\\ClassAtribMet.csproj",
+        "projectUniqueName": "D:\\Documents\\CursoC#_Udemy\\POO--C_Sharp\\Exerc06ClassAtribMet\\Exerc06ClassAtribMet\\Exerc06ClassAtribMet.csproj",
+        "projectName": "Exerc06ClassAtribMet",
+        "projectPath": "D:\\Documents\\CursoC#_Udemy\\POO--C_Sharp\\Exerc06ClassAtribMet\\Exerc06ClassAtribMet\\Exerc06ClassAtribMet.csproj",
         "packagesPath": "C:\\Users\\Caveira\\.nuget\\packages\\",
-        "outputPath": "D:\\Documents\\CursoC#_Udemy\\POO--C_Sharp\\03-ClassAtribMet\\ClassAtribMet\\obj\\",
+        "outputPath": "D:\\Documents\\CursoC#_Udemy\\POO--C_Sharp\\Exerc06ClassAtribMet\\Exerc06ClassAtribMet\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Caveira\\AppData\\Roaming\\NuGet\\NuGet.Config",

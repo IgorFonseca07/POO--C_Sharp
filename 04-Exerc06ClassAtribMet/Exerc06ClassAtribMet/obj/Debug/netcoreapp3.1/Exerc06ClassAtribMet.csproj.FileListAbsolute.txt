@@ -1,0 +1,13 @@
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Exerc06ClassAtribMet\Exerc06ClassAtribMet\bin\Debug\netcoreapp3.1\Exerc06ClassAtribMet.exe
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Exerc06ClassAtribMet\Exerc06ClassAtribMet\bin\Debug\netcoreapp3.1\Exerc06ClassAtribMet.deps.json
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Exerc06ClassAtribMet\Exerc06ClassAtribMet\bin\Debug\netcoreapp3.1\Exerc06ClassAtribMet.runtimeconfig.json
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Exerc06ClassAtribMet\Exerc06ClassAtribMet\bin\Debug\netcoreapp3.1\Exerc06ClassAtribMet.runtimeconfig.dev.json
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Exerc06ClassAtribMet\Exerc06ClassAtribMet\bin\Debug\netcoreapp3.1\Exerc06ClassAtribMet.dll
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Exerc06ClassAtribMet\Exerc06ClassAtribMet\bin\Debug\netcoreapp3.1\Exerc06ClassAtribMet.pdb
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Exerc06ClassAtribMet\Exerc06ClassAtribMet\obj\Debug\netcoreapp3.1\Exerc06ClassAtribMet.csprojAssemblyReference.cache
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Exerc06ClassAtribMet\Exerc06ClassAtribMet\obj\Debug\netcoreapp3.1\Exerc06ClassAtribMet.csproj.CoreCompileInputs.cache
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Exerc06ClassAtribMet\Exerc06ClassAtribMet\obj\Debug\netcoreapp3.1\Exerc06ClassAtribMet.AssemblyInfoInputs.cache
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Exerc06ClassAtribMet\Exerc06ClassAtribMet\obj\Debug\netcoreapp3.1\Exerc06ClassAtribMet.AssemblyInfo.cs
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Exerc06ClassAtribMet\Exerc06ClassAtribMet\obj\Debug\netcoreapp3.1\Exerc06ClassAtribMet.dll
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Exerc06ClassAtribMet\Exerc06ClassAtribMet\obj\Debug\netcoreapp3.1\Exerc06ClassAtribMet.pdb
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Exerc06ClassAtribMet\Exerc06ClassAtribMet\obj\Debug\netcoreapp3.1\Exerc06ClassAtribMet.genruntimeconfig.cache

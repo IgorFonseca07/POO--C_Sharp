@@ -20,11 +20,9 @@ namespace ClassAtribMet {
             y.B = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             y.C = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-            double p = (x.A + x.B + x.C) / 2.0;
-            double areaX = Math.Sqrt(p * (p - x.A) * (p - x.B) * (p - x.C));
+            double areaX = x.Area();
 
-            p = (y.A + y.B + y.C) / 2.0;
-            double areaY = Math.Sqrt(p * (p - y.A) * (p - y.B) * (p - y.C));
+            double areaY = y.Area();
 
             Console.WriteLine("Área Triângulo X: " + areaX.ToString("F4", CultureInfo.InvariantCulture));
             Console.WriteLine("Área Triângulo Y: " + areaY.ToString("F4", CultureInfo.InvariantCulture));
@@ -38,6 +36,35 @@ namespace ClassAtribMet {
             else {
                 Console.WriteLine("Triângulos possuem mesmo valor de área!");
             }
+
+
+            Console.WriteLine(" ");
+            Console.WriteLine("--------------------------------------------------------");
+            Console.WriteLine(" ");
+
+            
+            Produto z = new Produto();
+
+            Console.WriteLine("Entre com os dados do produto:");
+            Console.Write("Nome: ");
+            z.Nome = Console.ReadLine();
+            Console.Write("Preço: ");
+            z.Preco = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            Console.Write("Quantidade no estoque: ");
+            z.Quantidade = int.Parse(Console.ReadLine());
+
+            Console.WriteLine("Dados do produto: " + z);
+
+            Console.Write("Digite o número de produtos a ser adicionado ao estoque: ");
+            int quantad = int.Parse(Console.ReadLine());
+            z.AdicionarProdutos(quantad);
+            Console.WriteLine("Dados atualizados: " + z);
+
+            Console.Write("Digite o número de produtos a ser removido do estoque: ");
+            int quantrem = int.Parse(Console.ReadLine());
+            z.RemoverProdutos(quantrem);
+            Console.WriteLine("Dados atualizados: " + z);
+            
 
         }
     }
