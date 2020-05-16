@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Exerc07MemEst/1.0.0": {
+        "runtime": {
+          "Exerc07MemEst.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exerc07MemEst/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

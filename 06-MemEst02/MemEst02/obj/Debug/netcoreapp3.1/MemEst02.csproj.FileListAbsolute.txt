@@ -1,0 +1,13 @@
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\MemEst02\MemEst02\bin\Debug\netcoreapp3.1\MemEst02.exe
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\MemEst02\MemEst02\bin\Debug\netcoreapp3.1\MemEst02.deps.json
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\MemEst02\MemEst02\bin\Debug\netcoreapp3.1\MemEst02.runtimeconfig.json
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\MemEst02\MemEst02\bin\Debug\netcoreapp3.1\MemEst02.runtimeconfig.dev.json
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\MemEst02\MemEst02\bin\Debug\netcoreapp3.1\MemEst02.dll
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\MemEst02\MemEst02\bin\Debug\netcoreapp3.1\MemEst02.pdb
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\MemEst02\MemEst02\obj\Debug\netcoreapp3.1\MemEst02.csprojAssemblyReference.cache
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\MemEst02\MemEst02\obj\Debug\netcoreapp3.1\MemEst02.csproj.CoreCompileInputs.cache
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\MemEst02\MemEst02\obj\Debug\netcoreapp3.1\MemEst02.AssemblyInfoInputs.cache
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\MemEst02\MemEst02\obj\Debug\netcoreapp3.1\MemEst02.AssemblyInfo.cs
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\MemEst02\MemEst02\obj\Debug\netcoreapp3.1\MemEst02.dll
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\MemEst02\MemEst02\obj\Debug\netcoreapp3.1\MemEst02.pdb
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\MemEst02\MemEst02\obj\Debug\netcoreapp3.1\MemEst02.genruntimeconfig.cache

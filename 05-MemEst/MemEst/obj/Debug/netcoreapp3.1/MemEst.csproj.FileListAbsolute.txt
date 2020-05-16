@@ -1,0 +1,13 @@
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\MemEst\MemEst\bin\Debug\netcoreapp3.1\MemEst.exe
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\MemEst\MemEst\bin\Debug\netcoreapp3.1\MemEst.deps.json
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\MemEst\MemEst\bin\Debug\netcoreapp3.1\MemEst.runtimeconfig.json
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\MemEst\MemEst\bin\Debug\netcoreapp3.1\MemEst.runtimeconfig.dev.json
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\MemEst\MemEst\bin\Debug\netcoreapp3.1\MemEst.dll
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\MemEst\MemEst\bin\Debug\netcoreapp3.1\MemEst.pdb
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\MemEst\MemEst\obj\Debug\netcoreapp3.1\MemEst.csprojAssemblyReference.cache
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\MemEst\MemEst\obj\Debug\netcoreapp3.1\MemEst.csproj.CoreCompileInputs.cache
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\MemEst\MemEst\obj\Debug\netcoreapp3.1\MemEst.AssemblyInfoInputs.cache
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\MemEst\MemEst\obj\Debug\netcoreapp3.1\MemEst.AssemblyInfo.cs
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\MemEst\MemEst\obj\Debug\netcoreapp3.1\MemEst.dll
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\MemEst\MemEst\obj\Debug\netcoreapp3.1\MemEst.pdb
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\MemEst\MemEst\obj\Debug\netcoreapp3.1\MemEst.genruntimeconfig.cache

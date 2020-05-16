@@ -1,0 +1,13 @@
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Exerc07MemEst\Exerc07MemEst\bin\Debug\netcoreapp3.1\Exerc07MemEst.exe
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Exerc07MemEst\Exerc07MemEst\bin\Debug\netcoreapp3.1\Exerc07MemEst.deps.json
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Exerc07MemEst\Exerc07MemEst\bin\Debug\netcoreapp3.1\Exerc07MemEst.runtimeconfig.json
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Exerc07MemEst\Exerc07MemEst\bin\Debug\netcoreapp3.1\Exerc07MemEst.runtimeconfig.dev.json
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Exerc07MemEst\Exerc07MemEst\bin\Debug\netcoreapp3.1\Exerc07MemEst.dll
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Exerc07MemEst\Exerc07MemEst\bin\Debug\netcoreapp3.1\Exerc07MemEst.pdb
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Exerc07MemEst\Exerc07MemEst\obj\Debug\netcoreapp3.1\Exerc07MemEst.csprojAssemblyReference.cache
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Exerc07MemEst\Exerc07MemEst\obj\Debug\netcoreapp3.1\Exerc07MemEst.csproj.CoreCompileInputs.cache
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Exerc07MemEst\Exerc07MemEst\obj\Debug\netcoreapp3.1\Exerc07MemEst.AssemblyInfoInputs.cache
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Exerc07MemEst\Exerc07MemEst\obj\Debug\netcoreapp3.1\Exerc07MemEst.AssemblyInfo.cs
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Exerc07MemEst\Exerc07MemEst\obj\Debug\netcoreapp3.1\Exerc07MemEst.dll
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Exerc07MemEst\Exerc07MemEst\obj\Debug\netcoreapp3.1\Exerc07MemEst.pdb
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Exerc07MemEst\Exerc07MemEst\obj\Debug\netcoreapp3.1\Exerc07MemEst.genruntimeconfig.cache
