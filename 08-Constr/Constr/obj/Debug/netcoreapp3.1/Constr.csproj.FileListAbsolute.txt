@@ -1,0 +1,13 @@
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Constr\Constr\bin\Debug\netcoreapp3.1\Constr.exe
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Constr\Constr\bin\Debug\netcoreapp3.1\Constr.deps.json
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Constr\Constr\bin\Debug\netcoreapp3.1\Constr.runtimeconfig.json
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Constr\Constr\bin\Debug\netcoreapp3.1\Constr.runtimeconfig.dev.json
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Constr\Constr\bin\Debug\netcoreapp3.1\Constr.dll
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Constr\Constr\bin\Debug\netcoreapp3.1\Constr.pdb
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Constr\Constr\obj\Debug\netcoreapp3.1\Constr.csprojAssemblyReference.cache
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Constr\Constr\obj\Debug\netcoreapp3.1\Constr.csproj.CoreCompileInputs.cache
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Constr\Constr\obj\Debug\netcoreapp3.1\Constr.AssemblyInfoInputs.cache
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Constr\Constr\obj\Debug\netcoreapp3.1\Constr.AssemblyInfo.cs
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Constr\Constr\obj\Debug\netcoreapp3.1\Constr.dll
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Constr\Constr\obj\Debug\netcoreapp3.1\Constr.pdb
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Constr\Constr\obj\Debug\netcoreapp3.1\Constr.genruntimeconfig.cache
