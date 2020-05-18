@@ -1,0 +1,13 @@
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Encaps\Encaps\bin\Debug\netcoreapp3.1\Encaps.exe
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Encaps\Encaps\bin\Debug\netcoreapp3.1\Encaps.deps.json
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Encaps\Encaps\bin\Debug\netcoreapp3.1\Encaps.runtimeconfig.json
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Encaps\Encaps\bin\Debug\netcoreapp3.1\Encaps.runtimeconfig.dev.json
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Encaps\Encaps\bin\Debug\netcoreapp3.1\Encaps.dll
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Encaps\Encaps\bin\Debug\netcoreapp3.1\Encaps.pdb
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Encaps\Encaps\obj\Debug\netcoreapp3.1\Encaps.csprojAssemblyReference.cache
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Encaps\Encaps\obj\Debug\netcoreapp3.1\Encaps.csproj.CoreCompileInputs.cache
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Encaps\Encaps\obj\Debug\netcoreapp3.1\Encaps.AssemblyInfoInputs.cache
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Encaps\Encaps\obj\Debug\netcoreapp3.1\Encaps.AssemblyInfo.cs
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Encaps\Encaps\obj\Debug\netcoreapp3.1\Encaps.dll
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Encaps\Encaps\obj\Debug\netcoreapp3.1\Encaps.pdb
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Encaps\Encaps\obj\Debug\netcoreapp3.1\Encaps.genruntimeconfig.cache
