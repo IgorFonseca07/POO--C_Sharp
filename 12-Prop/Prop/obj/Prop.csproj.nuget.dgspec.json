@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Documents\\CursoC#_Udemy\\POO--C_Sharp\\11-Encaps\\Encaps\\Encaps.csproj": {}
+    "D:\\Documents\\CursoC#_Udemy\\POO--C_Sharp\\Prop\\Prop\\Prop.csproj": {}
   },
   "projects": {
-    "D:\\Documents\\CursoC#_Udemy\\POO--C_Sharp\\11-Encaps\\Encaps\\Encaps.csproj": {
+    "D:\\Documents\\CursoC#_Udemy\\POO--C_Sharp\\Prop\\Prop\\Prop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documents\\CursoC#_Udemy\\POO--C_Sharp\\11-Encaps\\Encaps\\Encaps.csproj",
-        "projectName": "Encaps",
-        "projectPath": "D:\\Documents\\CursoC#_Udemy\\POO--C_Sharp\\11-Encaps\\Encaps\\Encaps.csproj",
+        "projectUniqueName": "D:\\Documents\\CursoC#_Udemy\\POO--C_Sharp\\Prop\\Prop\\Prop.csproj",
+        "projectName": "Prop",
+        "projectPath": "D:\\Documents\\CursoC#_Udemy\\POO--C_Sharp\\Prop\\Prop\\Prop.csproj",
         "packagesPath": "C:\\Users\\Caveira\\.nuget\\packages\\",
-        "outputPath": "D:\\Documents\\CursoC#_Udemy\\POO--C_Sharp\\11-Encaps\\Encaps\\obj\\",
+        "outputPath": "D:\\Documents\\CursoC#_Udemy\\POO--C_Sharp\\Prop\\Prop\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Caveira\\AppData\\Roaming\\NuGet\\NuGet.Config",

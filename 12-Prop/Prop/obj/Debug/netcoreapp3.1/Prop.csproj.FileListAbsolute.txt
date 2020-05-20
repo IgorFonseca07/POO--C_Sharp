@@ -1,0 +1,13 @@
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Prop\Prop\bin\Debug\netcoreapp3.1\Prop.exe
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Prop\Prop\bin\Debug\netcoreapp3.1\Prop.deps.json
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Prop\Prop\bin\Debug\netcoreapp3.1\Prop.runtimeconfig.json
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Prop\Prop\bin\Debug\netcoreapp3.1\Prop.runtimeconfig.dev.json
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Prop\Prop\bin\Debug\netcoreapp3.1\Prop.dll
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Prop\Prop\bin\Debug\netcoreapp3.1\Prop.pdb
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Prop\Prop\obj\Debug\netcoreapp3.1\Prop.csprojAssemblyReference.cache
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Prop\Prop\obj\Debug\netcoreapp3.1\Prop.csproj.CoreCompileInputs.cache
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Prop\Prop\obj\Debug\netcoreapp3.1\Prop.AssemblyInfoInputs.cache
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Prop\Prop\obj\Debug\netcoreapp3.1\Prop.AssemblyInfo.cs
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Prop\Prop\obj\Debug\netcoreapp3.1\Prop.dll
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Prop\Prop\obj\Debug\netcoreapp3.1\Prop.pdb
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Prop\Prop\obj\Debug\netcoreapp3.1\Prop.genruntimeconfig.cache
