@@ -1,0 +1,13 @@
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\AutoProp\AutoProp\obj\Debug\netcoreapp3.1\AutoProp.csprojAssemblyReference.cache
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\AutoProp\AutoProp\obj\Debug\netcoreapp3.1\AutoProp.csproj.CoreCompileInputs.cache
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\AutoProp\AutoProp\obj\Debug\netcoreapp3.1\AutoProp.AssemblyInfoInputs.cache
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\AutoProp\AutoProp\obj\Debug\netcoreapp3.1\AutoProp.AssemblyInfo.cs
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\AutoProp\AutoProp\bin\Debug\netcoreapp3.1\AutoProp.exe
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\AutoProp\AutoProp\bin\Debug\netcoreapp3.1\AutoProp.deps.json
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\AutoProp\AutoProp\bin\Debug\netcoreapp3.1\AutoProp.runtimeconfig.json
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\AutoProp\AutoProp\bin\Debug\netcoreapp3.1\AutoProp.runtimeconfig.dev.json
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\AutoProp\AutoProp\bin\Debug\netcoreapp3.1\AutoProp.dll
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\AutoProp\AutoProp\bin\Debug\netcoreapp3.1\AutoProp.pdb
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\AutoProp\AutoProp\obj\Debug\netcoreapp3.1\AutoProp.dll
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\AutoProp\AutoProp\obj\Debug\netcoreapp3.1\AutoProp.pdb
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\AutoProp\AutoProp\obj\Debug\netcoreapp3.1\AutoProp.genruntimeconfig.cache
