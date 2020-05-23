@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Documents\\CursoC#_Udemy\\POO--C_Sharp\\Exerc08\\Exerc08\\Exerc08.csproj",
+      "projectUniqueName": "D:\\Documents\\CursoC#_Udemy\\POO--C_Sharp\\14-Exerc08\\Exerc08\\Exerc08.csproj",
       "projectName": "Exerc08",
-      "projectPath": "D:\\Documents\\CursoC#_Udemy\\POO--C_Sharp\\Exerc08\\Exerc08\\Exerc08.csproj",
+      "projectPath": "D:\\Documents\\CursoC#_Udemy\\POO--C_Sharp\\14-Exerc08\\Exerc08\\Exerc08.csproj",
       "packagesPath": "C:\\Users\\Caveira\\.nuget\\packages\\",
-      "outputPath": "D:\\Documents\\CursoC#_Udemy\\POO--C_Sharp\\Exerc08\\Exerc08\\obj\\",
+      "outputPath": "D:\\Documents\\CursoC#_Udemy\\POO--C_Sharp\\14-Exerc08\\Exerc08\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Caveira\\AppData\\Roaming\\NuGet\\NuGet.Config",
