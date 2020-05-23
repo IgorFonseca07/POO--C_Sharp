@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Documents\\CursoC#_Udemy\\POO--C_Sharp\\13-AutoProp\\AutoProp\\AutoProp.csproj": {}
+    "D:\\Documents\\CursoC#_Udemy\\POO--C_Sharp\\Exerc08\\Exerc08\\Exerc08.csproj": {}
   },
   "projects": {
-    "D:\\Documents\\CursoC#_Udemy\\POO--C_Sharp\\13-AutoProp\\AutoProp\\AutoProp.csproj": {
+    "D:\\Documents\\CursoC#_Udemy\\POO--C_Sharp\\Exerc08\\Exerc08\\Exerc08.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documents\\CursoC#_Udemy\\POO--C_Sharp\\13-AutoProp\\AutoProp\\AutoProp.csproj",
-        "projectName": "AutoProp",
-        "projectPath": "D:\\Documents\\CursoC#_Udemy\\POO--C_Sharp\\13-AutoProp\\AutoProp\\AutoProp.csproj",
+        "projectUniqueName": "D:\\Documents\\CursoC#_Udemy\\POO--C_Sharp\\Exerc08\\Exerc08\\Exerc08.csproj",
+        "projectName": "Exerc08",
+        "projectPath": "D:\\Documents\\CursoC#_Udemy\\POO--C_Sharp\\Exerc08\\Exerc08\\Exerc08.csproj",
         "packagesPath": "C:\\Users\\Caveira\\.nuget\\packages\\",
-        "outputPath": "D:\\Documents\\CursoC#_Udemy\\POO--C_Sharp\\13-AutoProp\\AutoProp\\obj\\",
+        "outputPath": "D:\\Documents\\CursoC#_Udemy\\POO--C_Sharp\\Exerc08\\Exerc08\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Caveira\\AppData\\Roaming\\NuGet\\NuGet.Config",
