@@ -11,3 +11,16 @@ D:\Documents\CursoC#_Udemy\POO--C_Sharp\Exerc08\Exerc08\bin\Debug\netcoreapp3.1\
 D:\Documents\CursoC#_Udemy\POO--C_Sharp\Exerc08\Exerc08\obj\Debug\netcoreapp3.1\Exerc08.dll
 D:\Documents\CursoC#_Udemy\POO--C_Sharp\Exerc08\Exerc08\obj\Debug\netcoreapp3.1\Exerc08.pdb
 D:\Documents\CursoC#_Udemy\POO--C_Sharp\Exerc08\Exerc08\obj\Debug\netcoreapp3.1\Exerc08.genruntimeconfig.cache
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\14-Exerc08\Exerc08\bin\Debug\netcoreapp3.1\Exerc08.exe
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\14-Exerc08\Exerc08\bin\Debug\netcoreapp3.1\Exerc08.deps.json
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\14-Exerc08\Exerc08\bin\Debug\netcoreapp3.1\Exerc08.runtimeconfig.json
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\14-Exerc08\Exerc08\bin\Debug\netcoreapp3.1\Exerc08.runtimeconfig.dev.json
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\14-Exerc08\Exerc08\bin\Debug\netcoreapp3.1\Exerc08.dll
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\14-Exerc08\Exerc08\bin\Debug\netcoreapp3.1\Exerc08.pdb
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\14-Exerc08\Exerc08\obj\Debug\netcoreapp3.1\Exerc08.csprojAssemblyReference.cache
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\14-Exerc08\Exerc08\obj\Debug\netcoreapp3.1\Exerc08.csproj.CoreCompileInputs.cache
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\14-Exerc08\Exerc08\obj\Debug\netcoreapp3.1\Exerc08.AssemblyInfoInputs.cache
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\14-Exerc08\Exerc08\obj\Debug\netcoreapp3.1\Exerc08.AssemblyInfo.cs
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\14-Exerc08\Exerc08\obj\Debug\netcoreapp3.1\Exerc08.dll
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\14-Exerc08\Exerc08\obj\Debug\netcoreapp3.1\Exerc08.pdb
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\14-Exerc08\Exerc08\obj\Debug\netcoreapp3.1\Exerc08.genruntimeconfig.cache

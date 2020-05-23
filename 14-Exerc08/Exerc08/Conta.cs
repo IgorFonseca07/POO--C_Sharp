@@ -4,7 +4,7 @@ namespace Exerc08 {
     class Conta {
 
         public int NumeroConta { get; private set; }
-        public string TitularConta { get; private set; }
+        public string TitularConta { get; set; }
         public double ValorSaldoAtual { get; private set; }
 
 
@@ -14,7 +14,7 @@ namespace Exerc08 {
         }
 
         public Conta(int numeroconta, string titularconta, double valordepositoinicial) : this(numeroconta, titularconta) {
-            ValorSaldoAtual = valordepositoinicial;
+            Deposito(valordepositoinicial);
         }
 
 
