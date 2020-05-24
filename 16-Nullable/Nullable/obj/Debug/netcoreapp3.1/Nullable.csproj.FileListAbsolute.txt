@@ -1,0 +1,13 @@
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\16-Nullable\Nullable\bin\Debug\netcoreapp3.1\Nullable.exe
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\16-Nullable\Nullable\bin\Debug\netcoreapp3.1\Nullable.deps.json
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\16-Nullable\Nullable\bin\Debug\netcoreapp3.1\Nullable.runtimeconfig.json
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\16-Nullable\Nullable\bin\Debug\netcoreapp3.1\Nullable.runtimeconfig.dev.json
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\16-Nullable\Nullable\bin\Debug\netcoreapp3.1\Nullable.dll
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\16-Nullable\Nullable\bin\Debug\netcoreapp3.1\Nullable.pdb
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\16-Nullable\Nullable\obj\Debug\netcoreapp3.1\Nullable.csprojAssemblyReference.cache
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\16-Nullable\Nullable\obj\Debug\netcoreapp3.1\Nullable.csproj.CoreCompileInputs.cache
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\16-Nullable\Nullable\obj\Debug\netcoreapp3.1\Nullable.AssemblyInfoInputs.cache
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\16-Nullable\Nullable\obj\Debug\netcoreapp3.1\Nullable.AssemblyInfo.cs
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\16-Nullable\Nullable\obj\Debug\netcoreapp3.1\Nullable.dll
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\16-Nullable\Nullable\obj\Debug\netcoreapp3.1\Nullable.pdb
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\16-Nullable\Nullable\obj\Debug\netcoreapp3.1\Nullable.genruntimeconfig.cache
