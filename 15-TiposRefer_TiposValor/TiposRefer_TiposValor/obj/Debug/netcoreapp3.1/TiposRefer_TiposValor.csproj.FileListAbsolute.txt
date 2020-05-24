@@ -1,0 +1,13 @@
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\TiposRefer_TiposValor\TiposRefer_TiposValor\bin\Debug\netcoreapp3.1\TiposRefer_TiposValor.exe
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\TiposRefer_TiposValor\TiposRefer_TiposValor\bin\Debug\netcoreapp3.1\TiposRefer_TiposValor.deps.json
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\TiposRefer_TiposValor\TiposRefer_TiposValor\bin\Debug\netcoreapp3.1\TiposRefer_TiposValor.runtimeconfig.json
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\TiposRefer_TiposValor\TiposRefer_TiposValor\bin\Debug\netcoreapp3.1\TiposRefer_TiposValor.runtimeconfig.dev.json
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\TiposRefer_TiposValor\TiposRefer_TiposValor\bin\Debug\netcoreapp3.1\TiposRefer_TiposValor.dll
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\TiposRefer_TiposValor\TiposRefer_TiposValor\bin\Debug\netcoreapp3.1\TiposRefer_TiposValor.pdb
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\TiposRefer_TiposValor\TiposRefer_TiposValor\obj\Debug\netcoreapp3.1\TiposRefer_TiposValor.csprojAssemblyReference.cache
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\TiposRefer_TiposValor\TiposRefer_TiposValor\obj\Debug\netcoreapp3.1\TiposRefer_TiposValor.csproj.CoreCompileInputs.cache
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\TiposRefer_TiposValor\TiposRefer_TiposValor\obj\Debug\netcoreapp3.1\TiposRefer_TiposValor.AssemblyInfoInputs.cache
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\TiposRefer_TiposValor\TiposRefer_TiposValor\obj\Debug\netcoreapp3.1\TiposRefer_TiposValor.AssemblyInfo.cs
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\TiposRefer_TiposValor\TiposRefer_TiposValor\obj\Debug\netcoreapp3.1\TiposRefer_TiposValor.dll
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\TiposRefer_TiposValor\TiposRefer_TiposValor\obj\Debug\netcoreapp3.1\TiposRefer_TiposValor.pdb
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\TiposRefer_TiposValor\TiposRefer_TiposValor\obj\Debug\netcoreapp3.1\TiposRefer_TiposValor.genruntimeconfig.cache
