@@ -1,0 +1,13 @@
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Vetores\Vetores\bin\Debug\netcoreapp3.1\Vetores.exe
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Vetores\Vetores\bin\Debug\netcoreapp3.1\Vetores.deps.json
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Vetores\Vetores\bin\Debug\netcoreapp3.1\Vetores.runtimeconfig.json
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Vetores\Vetores\bin\Debug\netcoreapp3.1\Vetores.runtimeconfig.dev.json
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Vetores\Vetores\bin\Debug\netcoreapp3.1\Vetores.dll
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Vetores\Vetores\bin\Debug\netcoreapp3.1\Vetores.pdb
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Vetores\Vetores\obj\Debug\netcoreapp3.1\Vetores.csprojAssemblyReference.cache
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Vetores\Vetores\obj\Debug\netcoreapp3.1\Vetores.csproj.CoreCompileInputs.cache
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Vetores\Vetores\obj\Debug\netcoreapp3.1\Vetores.AssemblyInfoInputs.cache
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Vetores\Vetores\obj\Debug\netcoreapp3.1\Vetores.AssemblyInfo.cs
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Vetores\Vetores\obj\Debug\netcoreapp3.1\Vetores.dll
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Vetores\Vetores\obj\Debug\netcoreapp3.1\Vetores.pdb
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Vetores\Vetores\obj\Debug\netcoreapp3.1\Vetores.genruntimeconfig.cache
