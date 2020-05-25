@@ -1,0 +1,13 @@
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\ModifDeParam\ModifDeParam\bin\Debug\netcoreapp3.1\ModifDeParam.exe
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\ModifDeParam\ModifDeParam\bin\Debug\netcoreapp3.1\ModifDeParam.deps.json
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\ModifDeParam\ModifDeParam\bin\Debug\netcoreapp3.1\ModifDeParam.runtimeconfig.json
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\ModifDeParam\ModifDeParam\bin\Debug\netcoreapp3.1\ModifDeParam.runtimeconfig.dev.json
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\ModifDeParam\ModifDeParam\bin\Debug\netcoreapp3.1\ModifDeParam.dll
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\ModifDeParam\ModifDeParam\bin\Debug\netcoreapp3.1\ModifDeParam.pdb
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\ModifDeParam\ModifDeParam\obj\Debug\netcoreapp3.1\ModifDeParam.csprojAssemblyReference.cache
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\ModifDeParam\ModifDeParam\obj\Debug\netcoreapp3.1\ModifDeParam.csproj.CoreCompileInputs.cache
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\ModifDeParam\ModifDeParam\obj\Debug\netcoreapp3.1\ModifDeParam.AssemblyInfoInputs.cache
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\ModifDeParam\ModifDeParam\obj\Debug\netcoreapp3.1\ModifDeParam.AssemblyInfo.cs
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\ModifDeParam\ModifDeParam\obj\Debug\netcoreapp3.1\ModifDeParam.dll
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\ModifDeParam\ModifDeParam\obj\Debug\netcoreapp3.1\ModifDeParam.pdb
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\ModifDeParam\ModifDeParam\obj\Debug\netcoreapp3.1\ModifDeParam.genruntimeconfig.cache
