@@ -1,0 +1,13 @@
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Exerc09\Exerc09\bin\Debug\netcoreapp3.1\Exerc09.exe
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Exerc09\Exerc09\bin\Debug\netcoreapp3.1\Exerc09.deps.json
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Exerc09\Exerc09\bin\Debug\netcoreapp3.1\Exerc09.runtimeconfig.json
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Exerc09\Exerc09\bin\Debug\netcoreapp3.1\Exerc09.runtimeconfig.dev.json
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Exerc09\Exerc09\bin\Debug\netcoreapp3.1\Exerc09.dll
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Exerc09\Exerc09\bin\Debug\netcoreapp3.1\Exerc09.pdb
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Exerc09\Exerc09\obj\Debug\netcoreapp3.1\Exerc09.csprojAssemblyReference.cache
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Exerc09\Exerc09\obj\Debug\netcoreapp3.1\Exerc09.csproj.CoreCompileInputs.cache
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Exerc09\Exerc09\obj\Debug\netcoreapp3.1\Exerc09.AssemblyInfoInputs.cache
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Exerc09\Exerc09\obj\Debug\netcoreapp3.1\Exerc09.AssemblyInfo.cs
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Exerc09\Exerc09\obj\Debug\netcoreapp3.1\Exerc09.dll
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Exerc09\Exerc09\obj\Debug\netcoreapp3.1\Exerc09.pdb
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Exerc09\Exerc09\obj\Debug\netcoreapp3.1\Exerc09.genruntimeconfig.cache
