@@ -1,0 +1,13 @@
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Foreach\Foreach\bin\Debug\netcoreapp3.1\Foreach.exe
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Foreach\Foreach\bin\Debug\netcoreapp3.1\Foreach.deps.json
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Foreach\Foreach\bin\Debug\netcoreapp3.1\Foreach.runtimeconfig.json
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Foreach\Foreach\bin\Debug\netcoreapp3.1\Foreach.runtimeconfig.dev.json
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Foreach\Foreach\bin\Debug\netcoreapp3.1\Foreach.dll
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Foreach\Foreach\bin\Debug\netcoreapp3.1\Foreach.pdb
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Foreach\Foreach\obj\Debug\netcoreapp3.1\Foreach.csprojAssemblyReference.cache
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Foreach\Foreach\obj\Debug\netcoreapp3.1\Foreach.csproj.CoreCompileInputs.cache
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Foreach\Foreach\obj\Debug\netcoreapp3.1\Foreach.AssemblyInfoInputs.cache
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Foreach\Foreach\obj\Debug\netcoreapp3.1\Foreach.AssemblyInfo.cs
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Foreach\Foreach\obj\Debug\netcoreapp3.1\Foreach.dll
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Foreach\Foreach\obj\Debug\netcoreapp3.1\Foreach.pdb
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Foreach\Foreach\obj\Debug\netcoreapp3.1\Foreach.genruntimeconfig.cache
