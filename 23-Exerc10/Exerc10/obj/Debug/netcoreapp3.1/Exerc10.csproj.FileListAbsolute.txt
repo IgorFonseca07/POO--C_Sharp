@@ -1,0 +1,13 @@
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Exerc10\Exerc10\bin\Debug\netcoreapp3.1\Exerc10.exe
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Exerc10\Exerc10\bin\Debug\netcoreapp3.1\Exerc10.deps.json
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Exerc10\Exerc10\bin\Debug\netcoreapp3.1\Exerc10.runtimeconfig.json
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Exerc10\Exerc10\bin\Debug\netcoreapp3.1\Exerc10.runtimeconfig.dev.json
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Exerc10\Exerc10\bin\Debug\netcoreapp3.1\Exerc10.dll
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Exerc10\Exerc10\bin\Debug\netcoreapp3.1\Exerc10.pdb
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Exerc10\Exerc10\obj\Debug\netcoreapp3.1\Exerc10.csprojAssemblyReference.cache
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Exerc10\Exerc10\obj\Debug\netcoreapp3.1\Exerc10.csproj.CoreCompileInputs.cache
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Exerc10\Exerc10\obj\Debug\netcoreapp3.1\Exerc10.AssemblyInfoInputs.cache
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Exerc10\Exerc10\obj\Debug\netcoreapp3.1\Exerc10.AssemblyInfo.cs
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Exerc10\Exerc10\obj\Debug\netcoreapp3.1\Exerc10.dll
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Exerc10\Exerc10\obj\Debug\netcoreapp3.1\Exerc10.pdb
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Exerc10\Exerc10\obj\Debug\netcoreapp3.1\Exerc10.genruntimeconfig.cache
