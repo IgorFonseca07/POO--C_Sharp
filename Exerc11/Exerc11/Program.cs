@@ -24,9 +24,11 @@ namespace Exerc11 {
             int numberx = int.Parse(Console.ReadLine());
 
             for (int i = 0; i < m; i++) {
-                for (int j = 0; i < n; i++) {
+                for (int j = 0; i < n; j++) {
                     if (matrixmn[i, j] == numberx) {
-                        Console.WriteLine("Position " + m + "," + n + ":");
+                        Console.WriteLine("Position " + i + "," + j + ":");
+                        
+
                         
                     }
                 }
