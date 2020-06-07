@@ -1,0 +1,13 @@
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Conjuntos\Conjuntos\bin\Debug\netcoreapp3.1\Conjuntos.exe
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Conjuntos\Conjuntos\bin\Debug\netcoreapp3.1\Conjuntos.deps.json
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Conjuntos\Conjuntos\bin\Debug\netcoreapp3.1\Conjuntos.runtimeconfig.json
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Conjuntos\Conjuntos\bin\Debug\netcoreapp3.1\Conjuntos.runtimeconfig.dev.json
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Conjuntos\Conjuntos\bin\Debug\netcoreapp3.1\Conjuntos.dll
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Conjuntos\Conjuntos\bin\Debug\netcoreapp3.1\Conjuntos.pdb
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Conjuntos\Conjuntos\obj\Debug\netcoreapp3.1\Conjuntos.csprojAssemblyReference.cache
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Conjuntos\Conjuntos\obj\Debug\netcoreapp3.1\Conjuntos.csproj.CoreCompileInputs.cache
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Conjuntos\Conjuntos\obj\Debug\netcoreapp3.1\Conjuntos.AssemblyInfoInputs.cache
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Conjuntos\Conjuntos\obj\Debug\netcoreapp3.1\Conjuntos.AssemblyInfo.cs
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Conjuntos\Conjuntos\obj\Debug\netcoreapp3.1\Conjuntos.dll
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Conjuntos\Conjuntos\obj\Debug\netcoreapp3.1\Conjuntos.pdb
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Conjuntos\Conjuntos\obj\Debug\netcoreapp3.1\Conjuntos.genruntimeconfig.cache
