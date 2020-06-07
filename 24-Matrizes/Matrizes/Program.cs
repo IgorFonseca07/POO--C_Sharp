@@ -36,7 +36,7 @@ namespace Matrizes {
                         diagonal[i] = matrixn[i, j];
                     }
                     if (matrixn[i, j] < 0) {
-                        sumnegatives += 1;
+                        sumnegatives++;
                     }
                 }
             }
