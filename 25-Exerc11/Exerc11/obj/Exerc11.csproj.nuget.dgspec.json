@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Documents\\CursoC#_Udemy\\POO--C_Sharp\\Exerc11\\Exerc11\\Exerc11.csproj": {}
+    "D:\\Documents\\CursoC#_Udemy\\POO--C_Sharp\\25-Exerc11\\Exerc11\\Exerc11.csproj": {}
   },
   "projects": {
-    "D:\\Documents\\CursoC#_Udemy\\POO--C_Sharp\\Exerc11\\Exerc11\\Exerc11.csproj": {
+    "D:\\Documents\\CursoC#_Udemy\\POO--C_Sharp\\25-Exerc11\\Exerc11\\Exerc11.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documents\\CursoC#_Udemy\\POO--C_Sharp\\Exerc11\\Exerc11\\Exerc11.csproj",
+        "projectUniqueName": "D:\\Documents\\CursoC#_Udemy\\POO--C_Sharp\\25-Exerc11\\Exerc11\\Exerc11.csproj",
         "projectName": "Exerc11",
-        "projectPath": "D:\\Documents\\CursoC#_Udemy\\POO--C_Sharp\\Exerc11\\Exerc11\\Exerc11.csproj",
+        "projectPath": "D:\\Documents\\CursoC#_Udemy\\POO--C_Sharp\\25-Exerc11\\Exerc11\\Exerc11.csproj",
         "packagesPath": "C:\\Users\\Caveira\\.nuget\\packages\\",
-        "outputPath": "D:\\Documents\\CursoC#_Udemy\\POO--C_Sharp\\Exerc11\\Exerc11\\obj\\",
+        "outputPath": "D:\\Documents\\CursoC#_Udemy\\POO--C_Sharp\\25-Exerc11\\Exerc11\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Caveira\\AppData\\Roaming\\NuGet\\NuGet.Config",

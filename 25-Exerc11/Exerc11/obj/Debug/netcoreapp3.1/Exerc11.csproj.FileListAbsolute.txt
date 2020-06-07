@@ -1,0 +1,13 @@
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\25-Exerc11\Exerc11\bin\Debug\netcoreapp3.1\Exerc11.exe
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\25-Exerc11\Exerc11\bin\Debug\netcoreapp3.1\Exerc11.deps.json
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\25-Exerc11\Exerc11\bin\Debug\netcoreapp3.1\Exerc11.runtimeconfig.json
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\25-Exerc11\Exerc11\bin\Debug\netcoreapp3.1\Exerc11.runtimeconfig.dev.json
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\25-Exerc11\Exerc11\bin\Debug\netcoreapp3.1\Exerc11.dll
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\25-Exerc11\Exerc11\bin\Debug\netcoreapp3.1\Exerc11.pdb
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\25-Exerc11\Exerc11\obj\Debug\netcoreapp3.1\Exerc11.csprojAssemblyReference.cache
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\25-Exerc11\Exerc11\obj\Debug\netcoreapp3.1\Exerc11.csproj.CoreCompileInputs.cache
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\25-Exerc11\Exerc11\obj\Debug\netcoreapp3.1\Exerc11.AssemblyInfoInputs.cache
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\25-Exerc11\Exerc11\obj\Debug\netcoreapp3.1\Exerc11.AssemblyInfo.cs
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\25-Exerc11\Exerc11\obj\Debug\netcoreapp3.1\Exerc11.dll
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\25-Exerc11\Exerc11\obj\Debug\netcoreapp3.1\Exerc11.pdb
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\25-Exerc11\Exerc11\obj\Debug\netcoreapp3.1\Exerc11.genruntimeconfig.cache

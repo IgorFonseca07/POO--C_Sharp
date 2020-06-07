@@ -13,8 +13,8 @@ namespace Exerc11 {
             int[,] matrixmn = new int[m, n];
 
             for (int i = 0; i < m; i++) {
-                for (int j = 0; i < n; i++) {
-                    Console.Write("Number row " + m + " column " + n + ": ");
+                for (int j = 0; j < n; j++) {
+                    Console.Write("Number row " + i + " column " + j + ": ");
                     matrixmn[i, j] = int.Parse(Console.ReadLine());
                 }
             }
@@ -24,11 +24,9 @@ namespace Exerc11 {
             int numberx = int.Parse(Console.ReadLine());
 
             for (int i = 0; i < m; i++) {
-                for (int j = 0; i < n; j++) {
+                for (int j = 0; j < n; j++) {
                     if (matrixmn[i, j] == numberx) {
                         Console.WriteLine("Position " + i + "," + j + ":");
-                        
-
                         
                     }
                 }
