@@ -1,0 +1,13 @@
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Matrizes\Matrizes\bin\Debug\netcoreapp3.1\Matrizes.exe
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Matrizes\Matrizes\bin\Debug\netcoreapp3.1\Matrizes.deps.json
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Matrizes\Matrizes\bin\Debug\netcoreapp3.1\Matrizes.runtimeconfig.json
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Matrizes\Matrizes\bin\Debug\netcoreapp3.1\Matrizes.runtimeconfig.dev.json
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Matrizes\Matrizes\bin\Debug\netcoreapp3.1\Matrizes.dll
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Matrizes\Matrizes\bin\Debug\netcoreapp3.1\Matrizes.pdb
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Matrizes\Matrizes\obj\Debug\netcoreapp3.1\Matrizes.csprojAssemblyReference.cache
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Matrizes\Matrizes\obj\Debug\netcoreapp3.1\Matrizes.csproj.CoreCompileInputs.cache
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Matrizes\Matrizes\obj\Debug\netcoreapp3.1\Matrizes.AssemblyInfoInputs.cache
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Matrizes\Matrizes\obj\Debug\netcoreapp3.1\Matrizes.AssemblyInfo.cs
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Matrizes\Matrizes\obj\Debug\netcoreapp3.1\Matrizes.dll
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Matrizes\Matrizes\obj\Debug\netcoreapp3.1\Matrizes.pdb
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Matrizes\Matrizes\obj\Debug\netcoreapp3.1\Matrizes.genruntimeconfig.cache
