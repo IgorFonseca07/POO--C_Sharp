@@ -1,0 +1,13 @@
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\28-Enumeracoes\Enumeracoes\bin\Debug\netcoreapp3.1\Enumeracoes.exe
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\28-Enumeracoes\Enumeracoes\bin\Debug\netcoreapp3.1\Enumeracoes.deps.json
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\28-Enumeracoes\Enumeracoes\bin\Debug\netcoreapp3.1\Enumeracoes.runtimeconfig.json
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\28-Enumeracoes\Enumeracoes\bin\Debug\netcoreapp3.1\Enumeracoes.runtimeconfig.dev.json
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\28-Enumeracoes\Enumeracoes\bin\Debug\netcoreapp3.1\Enumeracoes.dll
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\28-Enumeracoes\Enumeracoes\bin\Debug\netcoreapp3.1\Enumeracoes.pdb
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\28-Enumeracoes\Enumeracoes\obj\Debug\netcoreapp3.1\Enumeracoes.csprojAssemblyReference.cache
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\28-Enumeracoes\Enumeracoes\obj\Debug\netcoreapp3.1\Enumeracoes.AssemblyInfoInputs.cache
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\28-Enumeracoes\Enumeracoes\obj\Debug\netcoreapp3.1\Enumeracoes.AssemblyInfo.cs
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\28-Enumeracoes\Enumeracoes\obj\Debug\netcoreapp3.1\Enumeracoes.csproj.CoreCompileInputs.cache
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\28-Enumeracoes\Enumeracoes\obj\Debug\netcoreapp3.1\Enumeracoes.dll
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\28-Enumeracoes\Enumeracoes\obj\Debug\netcoreapp3.1\Enumeracoes.pdb
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\28-Enumeracoes\Enumeracoes\obj\Debug\netcoreapp3.1\Enumeracoes.genruntimeconfig.cache
