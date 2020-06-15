@@ -1,0 +1,13 @@
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Composicao\Composicao\bin\Debug\netcoreapp3.1\Composicao.exe
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Composicao\Composicao\bin\Debug\netcoreapp3.1\Composicao.deps.json
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Composicao\Composicao\bin\Debug\netcoreapp3.1\Composicao.runtimeconfig.json
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Composicao\Composicao\bin\Debug\netcoreapp3.1\Composicao.runtimeconfig.dev.json
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Composicao\Composicao\bin\Debug\netcoreapp3.1\Composicao.dll
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Composicao\Composicao\bin\Debug\netcoreapp3.1\Composicao.pdb
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Composicao\Composicao\obj\Debug\netcoreapp3.1\Composicao.csprojAssemblyReference.cache
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Composicao\Composicao\obj\Debug\netcoreapp3.1\Composicao.AssemblyInfoInputs.cache
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Composicao\Composicao\obj\Debug\netcoreapp3.1\Composicao.AssemblyInfo.cs
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Composicao\Composicao\obj\Debug\netcoreapp3.1\Composicao.csproj.CoreCompileInputs.cache
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Composicao\Composicao\obj\Debug\netcoreapp3.1\Composicao.dll
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Composicao\Composicao\obj\Debug\netcoreapp3.1\Composicao.pdb
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Composicao\Composicao\obj\Debug\netcoreapp3.1\Composicao.genruntimeconfig.cache
