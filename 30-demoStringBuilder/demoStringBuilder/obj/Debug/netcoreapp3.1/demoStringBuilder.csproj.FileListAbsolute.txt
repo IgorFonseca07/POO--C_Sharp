@@ -1,0 +1,13 @@
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\demoStringBuilder\demoStringBuilder\bin\Debug\netcoreapp3.1\demoStringBuilder.exe
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\demoStringBuilder\demoStringBuilder\bin\Debug\netcoreapp3.1\demoStringBuilder.deps.json
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\demoStringBuilder\demoStringBuilder\bin\Debug\netcoreapp3.1\demoStringBuilder.runtimeconfig.json
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\demoStringBuilder\demoStringBuilder\bin\Debug\netcoreapp3.1\demoStringBuilder.runtimeconfig.dev.json
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\demoStringBuilder\demoStringBuilder\bin\Debug\netcoreapp3.1\demoStringBuilder.dll
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\demoStringBuilder\demoStringBuilder\bin\Debug\netcoreapp3.1\demoStringBuilder.pdb
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\demoStringBuilder\demoStringBuilder\obj\Debug\netcoreapp3.1\demoStringBuilder.csprojAssemblyReference.cache
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\demoStringBuilder\demoStringBuilder\obj\Debug\netcoreapp3.1\demoStringBuilder.AssemblyInfoInputs.cache
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\demoStringBuilder\demoStringBuilder\obj\Debug\netcoreapp3.1\demoStringBuilder.AssemblyInfo.cs
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\demoStringBuilder\demoStringBuilder\obj\Debug\netcoreapp3.1\demoStringBuilder.csproj.CoreCompileInputs.cache
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\demoStringBuilder\demoStringBuilder\obj\Debug\netcoreapp3.1\demoStringBuilder.dll
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\demoStringBuilder\demoStringBuilder\obj\Debug\netcoreapp3.1\demoStringBuilder.pdb
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\demoStringBuilder\demoStringBuilder\obj\Debug\netcoreapp3.1\demoStringBuilder.genruntimeconfig.cache
