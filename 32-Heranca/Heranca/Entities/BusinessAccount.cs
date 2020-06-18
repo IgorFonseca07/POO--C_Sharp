@@ -1,10 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Heranca.Entities
+﻿namespace Heranca.Entities
 {
-    class BusinessAccount : Account
+    class BusinessAccount : Account  //Herança, herdou da classe Account
     {
         public double LoanLimit { get; set; }
 
