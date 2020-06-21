@@ -14,8 +14,9 @@ namespace Polimorfismo
             Console.Write("Enter the number of employees: ");
             int quantityEmployees = int.Parse(Console.ReadLine());
 
-            for (int i = 1; i < quantityEmployees; i++)
+            for (int i = 1; i <= quantityEmployees; i++)
             {
+                Console.WriteLine("Employee #" + i + " data:");
                 Console.Write("Outsourced (y/n)? ");
                 string outsourcedYN = Console.ReadLine();
                 Console.Write("Name: ");
@@ -35,6 +36,7 @@ namespace Polimorfismo
                     employees.Add(new Employee(name, hours, valuePerHour));
                 }
             }
+            Console.WriteLine();
 
             Console.WriteLine("PAYMENTS:");
             foreach (Employee employee in employees)
