@@ -4,20 +4,20 @@ namespace Exerc14.Entities
 {
     class ImportedProduct : Product
     {
-        public double CustomsFree { get; set; }
+        public double CustomsFee { get; set; }
 
         public ImportedProduct()
         {
         }
 
-        public ImportedProduct(string name, double price, double customsFree) : base(name, price)
+        public ImportedProduct(string name, double price, double customsFee) : base(name, price)
         {
-            CustomsFree = customsFree;
+            CustomsFee = customsFee;
         }
 
         public double TotalPrice()
         {
-            return CustomsFree + Price;
+            return CustomsFee + Price;
         }
 
         public override string PriceTag()
@@ -26,7 +26,7 @@ namespace Exerc14.Entities
                 + " $ "
                 + TotalPrice().ToString("F2", CultureInfo.InvariantCulture)
                 + " (Customs fee: $ "
-                + CustomsFree.ToString("F2",CultureInfo.InvariantCulture)
+                + CustomsFee.ToString("F2",CultureInfo.InvariantCulture)
                 + ")";
         }
     }
