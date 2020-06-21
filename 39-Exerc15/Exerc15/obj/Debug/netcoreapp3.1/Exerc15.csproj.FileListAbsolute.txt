@@ -1,0 +1,13 @@
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Exerc15\Exerc15\bin\Debug\netcoreapp3.1\Exerc15.exe
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Exerc15\Exerc15\bin\Debug\netcoreapp3.1\Exerc15.deps.json
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Exerc15\Exerc15\bin\Debug\netcoreapp3.1\Exerc15.runtimeconfig.json
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Exerc15\Exerc15\bin\Debug\netcoreapp3.1\Exerc15.runtimeconfig.dev.json
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Exerc15\Exerc15\bin\Debug\netcoreapp3.1\Exerc15.dll
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Exerc15\Exerc15\bin\Debug\netcoreapp3.1\Exerc15.pdb
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Exerc15\Exerc15\obj\Debug\netcoreapp3.1\Exerc15.csprojAssemblyReference.cache
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Exerc15\Exerc15\obj\Debug\netcoreapp3.1\Exerc15.AssemblyInfoInputs.cache
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Exerc15\Exerc15\obj\Debug\netcoreapp3.1\Exerc15.AssemblyInfo.cs
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Exerc15\Exerc15\obj\Debug\netcoreapp3.1\Exerc15.csproj.CoreCompileInputs.cache
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Exerc15\Exerc15\obj\Debug\netcoreapp3.1\Exerc15.dll
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Exerc15\Exerc15\obj\Debug\netcoreapp3.1\Exerc15.pdb
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Exerc15\Exerc15\obj\Debug\netcoreapp3.1\Exerc15.genruntimeconfig.cache
