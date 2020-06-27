@@ -1,0 +1,13 @@
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Try-Catch\Try-Catch\bin\Debug\netcoreapp3.1\Try-Catch.exe
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Try-Catch\Try-Catch\bin\Debug\netcoreapp3.1\Try-Catch.deps.json
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Try-Catch\Try-Catch\bin\Debug\netcoreapp3.1\Try-Catch.runtimeconfig.json
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Try-Catch\Try-Catch\bin\Debug\netcoreapp3.1\Try-Catch.runtimeconfig.dev.json
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Try-Catch\Try-Catch\bin\Debug\netcoreapp3.1\Try-Catch.dll
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Try-Catch\Try-Catch\bin\Debug\netcoreapp3.1\Try-Catch.pdb
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Try-Catch\Try-Catch\obj\Debug\netcoreapp3.1\Try-Catch.csprojAssemblyReference.cache
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Try-Catch\Try-Catch\obj\Debug\netcoreapp3.1\Try-Catch.AssemblyInfoInputs.cache
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Try-Catch\Try-Catch\obj\Debug\netcoreapp3.1\Try-Catch.AssemblyInfo.cs
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Try-Catch\Try-Catch\obj\Debug\netcoreapp3.1\Try-Catch.csproj.CoreCompileInputs.cache
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Try-Catch\Try-Catch\obj\Debug\netcoreapp3.1\Try-Catch.dll
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Try-Catch\Try-Catch\obj\Debug\netcoreapp3.1\Try-Catch.pdb
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\Try-Catch\Try-Catch\obj\Debug\netcoreapp3.1\Try-Catch.genruntimeconfig.cache
