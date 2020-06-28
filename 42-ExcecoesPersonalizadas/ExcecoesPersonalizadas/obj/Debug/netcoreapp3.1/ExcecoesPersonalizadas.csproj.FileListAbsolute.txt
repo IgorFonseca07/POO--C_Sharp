@@ -1,0 +1,13 @@
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\ExcecoesPersonalizadas\ExcecoesPersonalizadas\bin\Debug\netcoreapp3.1\ExcecoesPersonalizadas.exe
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\ExcecoesPersonalizadas\ExcecoesPersonalizadas\bin\Debug\netcoreapp3.1\ExcecoesPersonalizadas.deps.json
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\ExcecoesPersonalizadas\ExcecoesPersonalizadas\bin\Debug\netcoreapp3.1\ExcecoesPersonalizadas.runtimeconfig.json
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\ExcecoesPersonalizadas\ExcecoesPersonalizadas\bin\Debug\netcoreapp3.1\ExcecoesPersonalizadas.runtimeconfig.dev.json
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\ExcecoesPersonalizadas\ExcecoesPersonalizadas\bin\Debug\netcoreapp3.1\ExcecoesPersonalizadas.dll
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\ExcecoesPersonalizadas\ExcecoesPersonalizadas\bin\Debug\netcoreapp3.1\ExcecoesPersonalizadas.pdb
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\ExcecoesPersonalizadas\ExcecoesPersonalizadas\obj\Debug\netcoreapp3.1\ExcecoesPersonalizadas.csprojAssemblyReference.cache
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\ExcecoesPersonalizadas\ExcecoesPersonalizadas\obj\Debug\netcoreapp3.1\ExcecoesPersonalizadas.AssemblyInfoInputs.cache
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\ExcecoesPersonalizadas\ExcecoesPersonalizadas\obj\Debug\netcoreapp3.1\ExcecoesPersonalizadas.AssemblyInfo.cs
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\ExcecoesPersonalizadas\ExcecoesPersonalizadas\obj\Debug\netcoreapp3.1\ExcecoesPersonalizadas.csproj.CoreCompileInputs.cache
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\ExcecoesPersonalizadas\ExcecoesPersonalizadas\obj\Debug\netcoreapp3.1\ExcecoesPersonalizadas.dll
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\ExcecoesPersonalizadas\ExcecoesPersonalizadas\obj\Debug\netcoreapp3.1\ExcecoesPersonalizadas.pdb
+D:\Documents\CursoC#_Udemy\POO--C_Sharp\ExcecoesPersonalizadas\ExcecoesPersonalizadas\obj\Debug\netcoreapp3.1\ExcecoesPersonalizadas.genruntimeconfig.cache
