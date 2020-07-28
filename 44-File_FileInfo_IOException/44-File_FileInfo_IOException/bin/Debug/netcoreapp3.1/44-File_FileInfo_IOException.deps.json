@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "44-File_FileInfo_IOException/1.0.0": {
+        "runtime": {
+          "44-File_FileInfo_IOException.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "44-File_FileInfo_IOException/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
