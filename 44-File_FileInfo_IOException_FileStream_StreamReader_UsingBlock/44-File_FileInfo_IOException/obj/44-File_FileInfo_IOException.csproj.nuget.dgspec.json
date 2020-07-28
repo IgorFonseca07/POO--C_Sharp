@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Caveira\\Documents\\CursoC#_Udemy\\POO--C_Sharp\\44-File_FileInfo_IOException\\44-File_FileInfo_IOException\\44-File_FileInfo_IOException.csproj": {}
+    "C:\\Users\\Caveira\\Documents\\CursoC#_Udemy\\POO--C_Sharp\\44-File_FileInfo_IOException_FileStream_StreamReader_UsingBlock\\44-File_FileInfo_IOException\\44-File_FileInfo_IOException.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Caveira\\Documents\\CursoC#_Udemy\\POO--C_Sharp\\44-File_FileInfo_IOException\\44-File_FileInfo_IOException\\44-File_FileInfo_IOException.csproj": {
+    "C:\\Users\\Caveira\\Documents\\CursoC#_Udemy\\POO--C_Sharp\\44-File_FileInfo_IOException_FileStream_StreamReader_UsingBlock\\44-File_FileInfo_IOException\\44-File_FileInfo_IOException.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Caveira\\Documents\\CursoC#_Udemy\\POO--C_Sharp\\44-File_FileInfo_IOException\\44-File_FileInfo_IOException\\44-File_FileInfo_IOException.csproj",
+        "projectUniqueName": "C:\\Users\\Caveira\\Documents\\CursoC#_Udemy\\POO--C_Sharp\\44-File_FileInfo_IOException_FileStream_StreamReader_UsingBlock\\44-File_FileInfo_IOException\\44-File_FileInfo_IOException.csproj",
         "projectName": "44-File_FileInfo_IOException",
-        "projectPath": "C:\\Users\\Caveira\\Documents\\CursoC#_Udemy\\POO--C_Sharp\\44-File_FileInfo_IOException\\44-File_FileInfo_IOException\\44-File_FileInfo_IOException.csproj",
+        "projectPath": "C:\\Users\\Caveira\\Documents\\CursoC#_Udemy\\POO--C_Sharp\\44-File_FileInfo_IOException_FileStream_StreamReader_UsingBlock\\44-File_FileInfo_IOException\\44-File_FileInfo_IOException.csproj",
         "packagesPath": "C:\\Users\\Caveira\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Caveira\\Documents\\CursoC#_Udemy\\POO--C_Sharp\\44-File_FileInfo_IOException\\44-File_FileInfo_IOException\\obj\\",
+        "outputPath": "C:\\Users\\Caveira\\Documents\\CursoC#_Udemy\\POO--C_Sharp\\44-File_FileInfo_IOException_FileStream_StreamReader_UsingBlock\\44-File_FileInfo_IOException\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

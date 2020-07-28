@@ -7,8 +7,8 @@ namespace _44_File_FileInfo_IOException
     {
         static void Main(string[] args)
         {
-            string sourcePath = @"C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\44-File_FileInfo_IOException\File01.txt";
-            string targetPath = @"C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\44-File_FileInfo_IOException\File02.txt";
+            string sourcePath = @"C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\44-File_FileInfo_IOException_FileStream_StreamReader_UsingBlock\File01.txt";
+            string targetPath = @"C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\44-File_FileInfo_IOException_FileStream_StreamReader_UsingBlock\File02.txt";
 
             try
             {
@@ -55,6 +55,32 @@ namespace _44_File_FileInfo_IOException
             {
                 if (sr != null) sr.Close();
                 //  if (fs != null) fs.Close();
+            }
+            Console.WriteLine();
+
+            
+
+            // Using Block
+
+            try
+            {
+                // using (FileStream fs = new FileStream(sourcePath, FileMode.Open))
+                // {
+                    // using (StreamReader sr2 = new StreamReader(fs))
+                    using (StreamReader sr2 = File.OpenText(sourcePath))
+                    {
+                        while (!sr2.EndOfStream)
+                        {
+                            string line = sr2.ReadLine();
+                            Console.WriteLine(line);
+                        }
+                    }
+                // }
+            }
+            catch (IOException e)
+            {
+                Console.WriteLine("An error occurred!");
+                Console.WriteLine(e.Message);
             }
 
         }
