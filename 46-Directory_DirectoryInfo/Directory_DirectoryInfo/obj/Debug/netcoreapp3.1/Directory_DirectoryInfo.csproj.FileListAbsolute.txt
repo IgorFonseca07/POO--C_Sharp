@@ -11,3 +11,16 @@ C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\Directory_DirectoryInfo\Di
 C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\Directory_DirectoryInfo\Directory_DirectoryInfo\obj\Debug\netcoreapp3.1\Directory_DirectoryInfo.dll
 C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\Directory_DirectoryInfo\Directory_DirectoryInfo\obj\Debug\netcoreapp3.1\Directory_DirectoryInfo.pdb
 C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\Directory_DirectoryInfo\Directory_DirectoryInfo\obj\Debug\netcoreapp3.1\Directory_DirectoryInfo.genruntimeconfig.cache
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\46-Directory_DirectoryInfo\Directory_DirectoryInfo\bin\Debug\netcoreapp3.1\Directory_DirectoryInfo.exe
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\46-Directory_DirectoryInfo\Directory_DirectoryInfo\bin\Debug\netcoreapp3.1\Directory_DirectoryInfo.deps.json
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\46-Directory_DirectoryInfo\Directory_DirectoryInfo\bin\Debug\netcoreapp3.1\Directory_DirectoryInfo.runtimeconfig.json
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\46-Directory_DirectoryInfo\Directory_DirectoryInfo\bin\Debug\netcoreapp3.1\Directory_DirectoryInfo.runtimeconfig.dev.json
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\46-Directory_DirectoryInfo\Directory_DirectoryInfo\bin\Debug\netcoreapp3.1\Directory_DirectoryInfo.dll
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\46-Directory_DirectoryInfo\Directory_DirectoryInfo\bin\Debug\netcoreapp3.1\Directory_DirectoryInfo.pdb
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\46-Directory_DirectoryInfo\Directory_DirectoryInfo\obj\Debug\netcoreapp3.1\Directory_DirectoryInfo.csprojAssemblyReference.cache
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\46-Directory_DirectoryInfo\Directory_DirectoryInfo\obj\Debug\netcoreapp3.1\Directory_DirectoryInfo.AssemblyInfoInputs.cache
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\46-Directory_DirectoryInfo\Directory_DirectoryInfo\obj\Debug\netcoreapp3.1\Directory_DirectoryInfo.AssemblyInfo.cs
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\46-Directory_DirectoryInfo\Directory_DirectoryInfo\obj\Debug\netcoreapp3.1\Directory_DirectoryInfo.csproj.CoreCompileInputs.cache
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\46-Directory_DirectoryInfo\Directory_DirectoryInfo\obj\Debug\netcoreapp3.1\Directory_DirectoryInfo.dll
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\46-Directory_DirectoryInfo\Directory_DirectoryInfo\obj\Debug\netcoreapp3.1\Directory_DirectoryInfo.pdb
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\46-Directory_DirectoryInfo\Directory_DirectoryInfo\obj\Debug\netcoreapp3.1\Directory_DirectoryInfo.genruntimeconfig.cache

@@ -20,6 +20,17 @@ namespace Directory_DirectoryInfo
                 {
                     Console.WriteLine(x);
                 }
+
+                Console.WriteLine();
+
+                var files = Directory.EnumerateFiles(path, "*.*", SearchOption.AllDirectories);
+                Console.WriteLine("FILES:");
+                foreach (string x in files)
+                {
+                    Console.WriteLine(x);
+                }
+
+                Directory.CreateDirectory(path + @"\NewFolder"); //Ou pode se usar "//NewFolder" ou invés de usar o @ antes!
             }
             catch (IOException e)
             {
