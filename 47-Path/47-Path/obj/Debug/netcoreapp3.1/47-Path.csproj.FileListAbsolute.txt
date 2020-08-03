@@ -1,0 +1,13 @@
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\47-Path\47-Path\bin\Debug\netcoreapp3.1\47-Path.exe
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\47-Path\47-Path\bin\Debug\netcoreapp3.1\47-Path.deps.json
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\47-Path\47-Path\bin\Debug\netcoreapp3.1\47-Path.runtimeconfig.json
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\47-Path\47-Path\bin\Debug\netcoreapp3.1\47-Path.runtimeconfig.dev.json
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\47-Path\47-Path\bin\Debug\netcoreapp3.1\47-Path.dll
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\47-Path\47-Path\bin\Debug\netcoreapp3.1\47-Path.pdb
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\47-Path\47-Path\obj\Debug\netcoreapp3.1\47-Path.csprojAssemblyReference.cache
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\47-Path\47-Path\obj\Debug\netcoreapp3.1\47-Path.AssemblyInfoInputs.cache
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\47-Path\47-Path\obj\Debug\netcoreapp3.1\47-Path.AssemblyInfo.cs
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\47-Path\47-Path\obj\Debug\netcoreapp3.1\47-Path.csproj.CoreCompileInputs.cache
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\47-Path\47-Path\obj\Debug\netcoreapp3.1\47-Path.dll
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\47-Path\47-Path\obj\Debug\netcoreapp3.1\47-Path.pdb
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\47-Path\47-Path\obj\Debug\netcoreapp3.1\47-Path.genruntimeconfig.cache
