@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Caveira\\Documents\\CursoC#_Udemy\\POO--C_Sharp\\45-StreamWriter\\StreamWriter\\StreamWriter.csproj",
-      "projectName": "StreamWriter",
-      "projectPath": "C:\\Users\\Caveira\\Documents\\CursoC#_Udemy\\POO--C_Sharp\\45-StreamWriter\\StreamWriter\\StreamWriter.csproj",
+      "projectUniqueName": "C:\\Users\\Caveira\\Documents\\CursoC#_Udemy\\POO--C_Sharp\\46-Directory_DirectoryInfo\\Directory_DirectoryInfo\\Directory_DirectoryInfo.csproj",
+      "projectName": "Directory_DirectoryInfo",
+      "projectPath": "C:\\Users\\Caveira\\Documents\\CursoC#_Udemy\\POO--C_Sharp\\46-Directory_DirectoryInfo\\Directory_DirectoryInfo\\Directory_DirectoryInfo.csproj",
       "packagesPath": "C:\\Users\\Caveira\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Caveira\\Documents\\CursoC#_Udemy\\POO--C_Sharp\\45-StreamWriter\\StreamWriter\\obj\\",
+      "outputPath": "C:\\Users\\Caveira\\Documents\\CursoC#_Udemy\\POO--C_Sharp\\46-Directory_DirectoryInfo\\Directory_DirectoryInfo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
