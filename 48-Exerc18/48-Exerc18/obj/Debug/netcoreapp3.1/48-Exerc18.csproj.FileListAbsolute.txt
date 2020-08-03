@@ -1,0 +1,13 @@
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\48-Exerc18\48-Exerc18\bin\Debug\netcoreapp3.1\48-Exerc18.exe
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\48-Exerc18\48-Exerc18\bin\Debug\netcoreapp3.1\48-Exerc18.deps.json
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\48-Exerc18\48-Exerc18\bin\Debug\netcoreapp3.1\48-Exerc18.runtimeconfig.json
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\48-Exerc18\48-Exerc18\bin\Debug\netcoreapp3.1\48-Exerc18.runtimeconfig.dev.json
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\48-Exerc18\48-Exerc18\bin\Debug\netcoreapp3.1\48-Exerc18.dll
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\48-Exerc18\48-Exerc18\bin\Debug\netcoreapp3.1\48-Exerc18.pdb
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\48-Exerc18\48-Exerc18\obj\Debug\netcoreapp3.1\48-Exerc18.csprojAssemblyReference.cache
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\48-Exerc18\48-Exerc18\obj\Debug\netcoreapp3.1\48-Exerc18.AssemblyInfoInputs.cache
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\48-Exerc18\48-Exerc18\obj\Debug\netcoreapp3.1\48-Exerc18.AssemblyInfo.cs
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\48-Exerc18\48-Exerc18\obj\Debug\netcoreapp3.1\48-Exerc18.csproj.CoreCompileInputs.cache
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\48-Exerc18\48-Exerc18\obj\Debug\netcoreapp3.1\48-Exerc18.dll
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\48-Exerc18\48-Exerc18\obj\Debug\netcoreapp3.1\48-Exerc18.pdb
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\48-Exerc18\48-Exerc18\obj\Debug\netcoreapp3.1\48-Exerc18.genruntimeconfig.cache
