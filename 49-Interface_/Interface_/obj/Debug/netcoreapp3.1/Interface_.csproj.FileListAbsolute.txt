@@ -1,0 +1,13 @@
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\Interface_\Interface_\bin\Debug\netcoreapp3.1\Interface_.exe
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\Interface_\Interface_\bin\Debug\netcoreapp3.1\Interface_.deps.json
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\Interface_\Interface_\bin\Debug\netcoreapp3.1\Interface_.runtimeconfig.json
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\Interface_\Interface_\bin\Debug\netcoreapp3.1\Interface_.runtimeconfig.dev.json
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\Interface_\Interface_\bin\Debug\netcoreapp3.1\Interface_.dll
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\Interface_\Interface_\bin\Debug\netcoreapp3.1\Interface_.pdb
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\Interface_\Interface_\obj\Debug\netcoreapp3.1\Interface_.csprojAssemblyReference.cache
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\Interface_\Interface_\obj\Debug\netcoreapp3.1\Interface_.AssemblyInfoInputs.cache
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\Interface_\Interface_\obj\Debug\netcoreapp3.1\Interface_.AssemblyInfo.cs
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\Interface_\Interface_\obj\Debug\netcoreapp3.1\Interface_.csproj.CoreCompileInputs.cache
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\Interface_\Interface_\obj\Debug\netcoreapp3.1\Interface_.dll
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\Interface_\Interface_\obj\Debug\netcoreapp3.1\Interface_.pdb
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\Interface_\Interface_\obj\Debug\netcoreapp3.1\Interface_.genruntimeconfig.cache
