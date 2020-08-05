@@ -19,7 +19,7 @@ namespace Exerc19.Services
 
         public void Payment(PaymentService paymentService)
         {
-
+            Companies.Taxs(paymentService);
         }
 
 
