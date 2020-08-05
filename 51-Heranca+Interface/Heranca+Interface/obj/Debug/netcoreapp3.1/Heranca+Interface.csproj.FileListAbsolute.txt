@@ -1,0 +1,13 @@
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\Heranca+Interface\Heranca+Interface\bin\Debug\netcoreapp3.1\Heranca+Interface.exe
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\Heranca+Interface\Heranca+Interface\bin\Debug\netcoreapp3.1\Heranca+Interface.deps.json
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\Heranca+Interface\Heranca+Interface\bin\Debug\netcoreapp3.1\Heranca+Interface.runtimeconfig.json
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\Heranca+Interface\Heranca+Interface\bin\Debug\netcoreapp3.1\Heranca+Interface.runtimeconfig.dev.json
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\Heranca+Interface\Heranca+Interface\bin\Debug\netcoreapp3.1\Heranca+Interface.dll
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\Heranca+Interface\Heranca+Interface\bin\Debug\netcoreapp3.1\Heranca+Interface.pdb
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\Heranca+Interface\Heranca+Interface\obj\Debug\netcoreapp3.1\Heranca+Interface.csprojAssemblyReference.cache
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\Heranca+Interface\Heranca+Interface\obj\Debug\netcoreapp3.1\Heranca+Interface.AssemblyInfoInputs.cache
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\Heranca+Interface\Heranca+Interface\obj\Debug\netcoreapp3.1\Heranca+Interface.AssemblyInfo.cs
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\Heranca+Interface\Heranca+Interface\obj\Debug\netcoreapp3.1\Heranca+Interface.csproj.CoreCompileInputs.cache
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\Heranca+Interface\Heranca+Interface\obj\Debug\netcoreapp3.1\Heranca+Interface.dll
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\Heranca+Interface\Heranca+Interface\obj\Debug\netcoreapp3.1\Heranca+Interface.pdb
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\Heranca+Interface\Heranca+Interface\obj\Debug\netcoreapp3.1\Heranca+Interface.genruntimeconfig.cache
