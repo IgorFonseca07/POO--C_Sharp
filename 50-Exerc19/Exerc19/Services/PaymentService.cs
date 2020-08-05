@@ -7,10 +7,10 @@ namespace Exerc19.Services
     {
         public int NumberOfInstallments { get; set; }
         public Contract Contract { get; set; }
-        public List<Installment> Installments { get; set; }
-        private Companies Companies;
+        public List<Installment> Installments = new List<Installment>();
+        private ICompanies Companies;
 
-        public PaymentService(int numberOfInstallments, Contract contract, Companies companies)
+        public PaymentService(int numberOfInstallments, Contract contract, ICompanies companies)
         {
             NumberOfInstallments = numberOfInstallments;
             Contract = contract;
@@ -19,7 +19,9 @@ namespace Exerc19.Services
 
         public void Payment(PaymentService paymentService)
         {
-            Companies.Taxs(paymentService);
+            double installmentValue = paymentService.Contract.TotalValue / paymentService.NumberOfInstallments;
+
+            Companies.Taxs(paymentService, installmentValue);
         }
 
 

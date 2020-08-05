@@ -16,7 +16,7 @@ namespace Exerc19.Entities
 
         public override string ToString()
         {
-            return DueDate.Date + " - " + Amount.ToString("F2", CultureInfo.InvariantCulture);
+            return DueDate.ToShortDateString() + " - " + Amount.ToString("F2", CultureInfo.InvariantCulture);
         }
     }
 }
