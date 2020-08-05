@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Caveira\\Documents\\CursoC#_Udemy\\POO--C_Sharp\\Exerc19\\Exerc19\\Exerc19.csproj",
+      "projectUniqueName": "C:\\Users\\Caveira\\Documents\\CursoC#_Udemy\\POO--C_Sharp\\50-Exerc19\\Exerc19\\Exerc19.csproj",
       "projectName": "Exerc19",
-      "projectPath": "C:\\Users\\Caveira\\Documents\\CursoC#_Udemy\\POO--C_Sharp\\Exerc19\\Exerc19\\Exerc19.csproj",
+      "projectPath": "C:\\Users\\Caveira\\Documents\\CursoC#_Udemy\\POO--C_Sharp\\50-Exerc19\\Exerc19\\Exerc19.csproj",
       "packagesPath": "C:\\Users\\Caveira\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Caveira\\Documents\\CursoC#_Udemy\\POO--C_Sharp\\Exerc19\\Exerc19\\obj\\",
+      "outputPath": "C:\\Users\\Caveira\\Documents\\CursoC#_Udemy\\POO--C_Sharp\\50-Exerc19\\Exerc19\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

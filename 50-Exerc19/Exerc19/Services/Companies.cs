@@ -3,7 +3,7 @@
     interface Companies
     {
 
-
+        void Taxs(PaymentService paymentService);
 
     }
 }

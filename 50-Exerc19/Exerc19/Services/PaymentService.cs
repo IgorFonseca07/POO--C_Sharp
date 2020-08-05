@@ -17,6 +17,11 @@ namespace Exerc19.Services
             Companies = companies;
         }
 
+        public void Payment(PaymentService paymentService)
+        {
+
+        }
+
 
     }
 }
