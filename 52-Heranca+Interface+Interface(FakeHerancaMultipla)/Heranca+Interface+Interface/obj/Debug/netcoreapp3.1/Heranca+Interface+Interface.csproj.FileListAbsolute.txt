@@ -1,0 +1,13 @@
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\52-Heranca+Interface+Interface(FakeHerancaMultipla)\Heranca+Interface+Interface\bin\Debug\netcoreapp3.1\Heranca+Interface+Interface.exe
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\52-Heranca+Interface+Interface(FakeHerancaMultipla)\Heranca+Interface+Interface\bin\Debug\netcoreapp3.1\Heranca+Interface+Interface.deps.json
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\52-Heranca+Interface+Interface(FakeHerancaMultipla)\Heranca+Interface+Interface\bin\Debug\netcoreapp3.1\Heranca+Interface+Interface.runtimeconfig.json
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\52-Heranca+Interface+Interface(FakeHerancaMultipla)\Heranca+Interface+Interface\bin\Debug\netcoreapp3.1\Heranca+Interface+Interface.runtimeconfig.dev.json
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\52-Heranca+Interface+Interface(FakeHerancaMultipla)\Heranca+Interface+Interface\bin\Debug\netcoreapp3.1\Heranca+Interface+Interface.dll
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\52-Heranca+Interface+Interface(FakeHerancaMultipla)\Heranca+Interface+Interface\bin\Debug\netcoreapp3.1\Heranca+Interface+Interface.pdb
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\52-Heranca+Interface+Interface(FakeHerancaMultipla)\Heranca+Interface+Interface\obj\Debug\netcoreapp3.1\Heranca+Interface+Interface.csprojAssemblyReference.cache
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\52-Heranca+Interface+Interface(FakeHerancaMultipla)\Heranca+Interface+Interface\obj\Debug\netcoreapp3.1\Heranca+Interface+Interface.AssemblyInfoInputs.cache
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\52-Heranca+Interface+Interface(FakeHerancaMultipla)\Heranca+Interface+Interface\obj\Debug\netcoreapp3.1\Heranca+Interface+Interface.AssemblyInfo.cs
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\52-Heranca+Interface+Interface(FakeHerancaMultipla)\Heranca+Interface+Interface\obj\Debug\netcoreapp3.1\Heranca+Interface+Interface.csproj.CoreCompileInputs.cache
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\52-Heranca+Interface+Interface(FakeHerancaMultipla)\Heranca+Interface+Interface\obj\Debug\netcoreapp3.1\Heranca+Interface+Interface.dll
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\52-Heranca+Interface+Interface(FakeHerancaMultipla)\Heranca+Interface+Interface\obj\Debug\netcoreapp3.1\Heranca+Interface+Interface.pdb
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\52-Heranca+Interface+Interface(FakeHerancaMultipla)\Heranca+Interface+Interface\obj\Debug\netcoreapp3.1\Heranca+Interface+Interface.genruntimeconfig.cache
