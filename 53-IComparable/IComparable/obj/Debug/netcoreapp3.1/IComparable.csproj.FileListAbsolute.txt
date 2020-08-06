@@ -1,0 +1,13 @@
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\IComparable\IComparable\bin\Debug\netcoreapp3.1\IComparable.exe
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\IComparable\IComparable\bin\Debug\netcoreapp3.1\IComparable.deps.json
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\IComparable\IComparable\bin\Debug\netcoreapp3.1\IComparable.runtimeconfig.json
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\IComparable\IComparable\bin\Debug\netcoreapp3.1\IComparable.runtimeconfig.dev.json
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\IComparable\IComparable\bin\Debug\netcoreapp3.1\IComparable.dll
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\IComparable\IComparable\bin\Debug\netcoreapp3.1\IComparable.pdb
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\IComparable\IComparable\obj\Debug\netcoreapp3.1\IComparable.csprojAssemblyReference.cache
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\IComparable\IComparable\obj\Debug\netcoreapp3.1\IComparable.AssemblyInfoInputs.cache
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\IComparable\IComparable\obj\Debug\netcoreapp3.1\IComparable.AssemblyInfo.cs
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\IComparable\IComparable\obj\Debug\netcoreapp3.1\IComparable.csproj.CoreCompileInputs.cache
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\IComparable\IComparable\obj\Debug\netcoreapp3.1\IComparable.dll
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\IComparable\IComparable\obj\Debug\netcoreapp3.1\IComparable.pdb
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\IComparable\IComparable\obj\Debug\netcoreapp3.1\IComparable.genruntimeconfig.cache
