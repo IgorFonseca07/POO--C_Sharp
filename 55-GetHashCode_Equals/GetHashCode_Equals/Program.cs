@@ -1,4 +1,5 @@
-﻿using System;
+﻿using GetHashCode_Equals.Entities;
+using System;
 
 namespace GetHashCode_Equals
 {
@@ -30,6 +31,21 @@ namespace GetHashCode_Equals
                 primeiro e depois use o Equals naqueles que obtiveram códigos iguais.
             */
 
+            Console.WriteLine("------------------");
+
+            // -> Caso não faça construtores na classe, pode-se instanciar desta forma abaixo:
+            /*
+            Client client01 = new Client { Name = "Maria", Email = "maria@gmail.com" };
+            Client client02 = new Client { Name = "Alex", Email = "alex@gmail.com" };
+            */
+
+            Client client01 = new Client("Maria", "maria@gmail.com");
+            Client client02 = new Client("Alex", "maria@gmail.com");
+
+            Console.WriteLine(client01.Equals(client02));
+            Console.WriteLine(client01 == client02);
+            Console.WriteLine(client01.GetHashCode());
+            Console.WriteLine(client02.GetHashCode());
         }
     }
 }
