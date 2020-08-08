@@ -1,0 +1,13 @@
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\55-GetHashCode_Equals\GetHashCode_Equals\bin\Debug\netcoreapp3.1\GetHashCode_Equals.exe
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\55-GetHashCode_Equals\GetHashCode_Equals\bin\Debug\netcoreapp3.1\GetHashCode_Equals.deps.json
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\55-GetHashCode_Equals\GetHashCode_Equals\bin\Debug\netcoreapp3.1\GetHashCode_Equals.runtimeconfig.json
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\55-GetHashCode_Equals\GetHashCode_Equals\bin\Debug\netcoreapp3.1\GetHashCode_Equals.runtimeconfig.dev.json
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\55-GetHashCode_Equals\GetHashCode_Equals\bin\Debug\netcoreapp3.1\GetHashCode_Equals.dll
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\55-GetHashCode_Equals\GetHashCode_Equals\bin\Debug\netcoreapp3.1\GetHashCode_Equals.pdb
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\55-GetHashCode_Equals\GetHashCode_Equals\obj\Debug\netcoreapp3.1\GetHashCode_Equals.csprojAssemblyReference.cache
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\55-GetHashCode_Equals\GetHashCode_Equals\obj\Debug\netcoreapp3.1\GetHashCode_Equals.AssemblyInfoInputs.cache
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\55-GetHashCode_Equals\GetHashCode_Equals\obj\Debug\netcoreapp3.1\GetHashCode_Equals.AssemblyInfo.cs
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\55-GetHashCode_Equals\GetHashCode_Equals\obj\Debug\netcoreapp3.1\GetHashCode_Equals.csproj.CoreCompileInputs.cache
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\55-GetHashCode_Equals\GetHashCode_Equals\obj\Debug\netcoreapp3.1\GetHashCode_Equals.dll
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\55-GetHashCode_Equals\GetHashCode_Equals\obj\Debug\netcoreapp3.1\GetHashCode_Equals.pdb
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\55-GetHashCode_Equals\GetHashCode_Equals\obj\Debug\netcoreapp3.1\GetHashCode_Equals.genruntimeconfig.cache
