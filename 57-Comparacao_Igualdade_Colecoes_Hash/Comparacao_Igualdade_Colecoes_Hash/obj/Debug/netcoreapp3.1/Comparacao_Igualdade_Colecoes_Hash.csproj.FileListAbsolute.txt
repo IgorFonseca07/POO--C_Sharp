@@ -1,0 +1,13 @@
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\Comparacao_Igualdade_Colecoes_Hash\Comparacao_Igualdade_Colecoes_Hash\bin\Debug\netcoreapp3.1\Comparacao_Igualdade_Colecoes_Hash.exe
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\Comparacao_Igualdade_Colecoes_Hash\Comparacao_Igualdade_Colecoes_Hash\bin\Debug\netcoreapp3.1\Comparacao_Igualdade_Colecoes_Hash.deps.json
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\Comparacao_Igualdade_Colecoes_Hash\Comparacao_Igualdade_Colecoes_Hash\bin\Debug\netcoreapp3.1\Comparacao_Igualdade_Colecoes_Hash.runtimeconfig.json
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\Comparacao_Igualdade_Colecoes_Hash\Comparacao_Igualdade_Colecoes_Hash\bin\Debug\netcoreapp3.1\Comparacao_Igualdade_Colecoes_Hash.runtimeconfig.dev.json
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\Comparacao_Igualdade_Colecoes_Hash\Comparacao_Igualdade_Colecoes_Hash\bin\Debug\netcoreapp3.1\Comparacao_Igualdade_Colecoes_Hash.dll
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\Comparacao_Igualdade_Colecoes_Hash\Comparacao_Igualdade_Colecoes_Hash\bin\Debug\netcoreapp3.1\Comparacao_Igualdade_Colecoes_Hash.pdb
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\Comparacao_Igualdade_Colecoes_Hash\Comparacao_Igualdade_Colecoes_Hash\obj\Debug\netcoreapp3.1\Comparacao_Igualdade_Colecoes_Hash.csprojAssemblyReference.cache
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\Comparacao_Igualdade_Colecoes_Hash\Comparacao_Igualdade_Colecoes_Hash\obj\Debug\netcoreapp3.1\Comparacao_Igualdade_Colecoes_Hash.AssemblyInfoInputs.cache
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\Comparacao_Igualdade_Colecoes_Hash\Comparacao_Igualdade_Colecoes_Hash\obj\Debug\netcoreapp3.1\Comparacao_Igualdade_Colecoes_Hash.AssemblyInfo.cs
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\Comparacao_Igualdade_Colecoes_Hash\Comparacao_Igualdade_Colecoes_Hash\obj\Debug\netcoreapp3.1\Comparacao_Igualdade_Colecoes_Hash.csproj.CoreCompileInputs.cache
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\Comparacao_Igualdade_Colecoes_Hash\Comparacao_Igualdade_Colecoes_Hash\obj\Debug\netcoreapp3.1\Comparacao_Igualdade_Colecoes_Hash.dll
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\Comparacao_Igualdade_Colecoes_Hash\Comparacao_Igualdade_Colecoes_Hash\obj\Debug\netcoreapp3.1\Comparacao_Igualdade_Colecoes_Hash.pdb
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\Comparacao_Igualdade_Colecoes_Hash\Comparacao_Igualdade_Colecoes_Hash\obj\Debug\netcoreapp3.1\Comparacao_Igualdade_Colecoes_Hash.genruntimeconfig.cache
