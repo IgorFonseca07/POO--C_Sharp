@@ -1,0 +1,13 @@
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\Dictionary_SortedDictionary\Dictionary_SortedDictionary\bin\Debug\netcoreapp3.1\Dictionary_SortedDictionary.exe
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\Dictionary_SortedDictionary\Dictionary_SortedDictionary\bin\Debug\netcoreapp3.1\Dictionary_SortedDictionary.deps.json
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\Dictionary_SortedDictionary\Dictionary_SortedDictionary\bin\Debug\netcoreapp3.1\Dictionary_SortedDictionary.runtimeconfig.json
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\Dictionary_SortedDictionary\Dictionary_SortedDictionary\bin\Debug\netcoreapp3.1\Dictionary_SortedDictionary.runtimeconfig.dev.json
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\Dictionary_SortedDictionary\Dictionary_SortedDictionary\bin\Debug\netcoreapp3.1\Dictionary_SortedDictionary.dll
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\Dictionary_SortedDictionary\Dictionary_SortedDictionary\bin\Debug\netcoreapp3.1\Dictionary_SortedDictionary.pdb
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\Dictionary_SortedDictionary\Dictionary_SortedDictionary\obj\Debug\netcoreapp3.1\Dictionary_SortedDictionary.csprojAssemblyReference.cache
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\Dictionary_SortedDictionary\Dictionary_SortedDictionary\obj\Debug\netcoreapp3.1\Dictionary_SortedDictionary.AssemblyInfoInputs.cache
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\Dictionary_SortedDictionary\Dictionary_SortedDictionary\obj\Debug\netcoreapp3.1\Dictionary_SortedDictionary.AssemblyInfo.cs
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\Dictionary_SortedDictionary\Dictionary_SortedDictionary\obj\Debug\netcoreapp3.1\Dictionary_SortedDictionary.csproj.CoreCompileInputs.cache
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\Dictionary_SortedDictionary\Dictionary_SortedDictionary\obj\Debug\netcoreapp3.1\Dictionary_SortedDictionary.dll
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\Dictionary_SortedDictionary\Dictionary_SortedDictionary\obj\Debug\netcoreapp3.1\Dictionary_SortedDictionary.pdb
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\Dictionary_SortedDictionary\Dictionary_SortedDictionary\obj\Debug\netcoreapp3.1\Dictionary_SortedDictionary.genruntimeconfig.cache
