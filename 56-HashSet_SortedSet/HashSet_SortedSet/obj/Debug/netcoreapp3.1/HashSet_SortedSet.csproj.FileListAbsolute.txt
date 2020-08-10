@@ -1,0 +1,13 @@
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\56-HashSet_SortedSet\HashSet_SortedSet\bin\Debug\netcoreapp3.1\HashSet_SortedSet.exe
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\56-HashSet_SortedSet\HashSet_SortedSet\bin\Debug\netcoreapp3.1\HashSet_SortedSet.deps.json
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\56-HashSet_SortedSet\HashSet_SortedSet\bin\Debug\netcoreapp3.1\HashSet_SortedSet.runtimeconfig.json
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\56-HashSet_SortedSet\HashSet_SortedSet\bin\Debug\netcoreapp3.1\HashSet_SortedSet.runtimeconfig.dev.json
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\56-HashSet_SortedSet\HashSet_SortedSet\bin\Debug\netcoreapp3.1\HashSet_SortedSet.dll
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\56-HashSet_SortedSet\HashSet_SortedSet\bin\Debug\netcoreapp3.1\HashSet_SortedSet.pdb
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\56-HashSet_SortedSet\HashSet_SortedSet\obj\Debug\netcoreapp3.1\HashSet_SortedSet.csprojAssemblyReference.cache
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\56-HashSet_SortedSet\HashSet_SortedSet\obj\Debug\netcoreapp3.1\HashSet_SortedSet.AssemblyInfoInputs.cache
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\56-HashSet_SortedSet\HashSet_SortedSet\obj\Debug\netcoreapp3.1\HashSet_SortedSet.AssemblyInfo.cs
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\56-HashSet_SortedSet\HashSet_SortedSet\obj\Debug\netcoreapp3.1\HashSet_SortedSet.csproj.CoreCompileInputs.cache
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\56-HashSet_SortedSet\HashSet_SortedSet\obj\Debug\netcoreapp3.1\HashSet_SortedSet.dll
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\56-HashSet_SortedSet\HashSet_SortedSet\obj\Debug\netcoreapp3.1\HashSet_SortedSet.pdb
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\56-HashSet_SortedSet\HashSet_SortedSet\obj\Debug\netcoreapp3.1\HashSet_SortedSet.genruntimeconfig.cache

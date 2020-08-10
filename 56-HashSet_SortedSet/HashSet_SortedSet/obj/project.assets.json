@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Caveira\\Documents\\CursoC#_Udemy\\POO--C_Sharp\\HashSet_SortedSet\\HashSet_SortedSet\\HashSet_SortedSet.csproj",
+      "projectUniqueName": "C:\\Users\\Caveira\\Documents\\CursoC#_Udemy\\POO--C_Sharp\\56-HashSet_SortedSet\\HashSet_SortedSet\\HashSet_SortedSet.csproj",
       "projectName": "HashSet_SortedSet",
-      "projectPath": "C:\\Users\\Caveira\\Documents\\CursoC#_Udemy\\POO--C_Sharp\\HashSet_SortedSet\\HashSet_SortedSet\\HashSet_SortedSet.csproj",
+      "projectPath": "C:\\Users\\Caveira\\Documents\\CursoC#_Udemy\\POO--C_Sharp\\56-HashSet_SortedSet\\HashSet_SortedSet\\HashSet_SortedSet.csproj",
       "packagesPath": "C:\\Users\\Caveira\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Caveira\\Documents\\CursoC#_Udemy\\POO--C_Sharp\\HashSet_SortedSet\\HashSet_SortedSet\\obj\\",
+      "outputPath": "C:\\Users\\Caveira\\Documents\\CursoC#_Udemy\\POO--C_Sharp\\56-HashSet_SortedSet\\HashSet_SortedSet\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
