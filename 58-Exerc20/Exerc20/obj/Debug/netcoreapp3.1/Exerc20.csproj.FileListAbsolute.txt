@@ -1,0 +1,13 @@
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\Exerc20\Exerc20\bin\Debug\netcoreapp3.1\Exerc20.exe
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\Exerc20\Exerc20\bin\Debug\netcoreapp3.1\Exerc20.deps.json
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\Exerc20\Exerc20\bin\Debug\netcoreapp3.1\Exerc20.runtimeconfig.json
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\Exerc20\Exerc20\bin\Debug\netcoreapp3.1\Exerc20.runtimeconfig.dev.json
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\Exerc20\Exerc20\bin\Debug\netcoreapp3.1\Exerc20.dll
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\Exerc20\Exerc20\bin\Debug\netcoreapp3.1\Exerc20.pdb
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\Exerc20\Exerc20\obj\Debug\netcoreapp3.1\Exerc20.csprojAssemblyReference.cache
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\Exerc20\Exerc20\obj\Debug\netcoreapp3.1\Exerc20.AssemblyInfoInputs.cache
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\Exerc20\Exerc20\obj\Debug\netcoreapp3.1\Exerc20.AssemblyInfo.cs
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\Exerc20\Exerc20\obj\Debug\netcoreapp3.1\Exerc20.csproj.CoreCompileInputs.cache
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\Exerc20\Exerc20\obj\Debug\netcoreapp3.1\Exerc20.dll
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\Exerc20\Exerc20\obj\Debug\netcoreapp3.1\Exerc20.pdb
+C:\Users\Caveira\Documents\CursoC#_Udemy\POO--C_Sharp\Exerc20\Exerc20\obj\Debug\netcoreapp3.1\Exerc20.genruntimeconfig.cache
